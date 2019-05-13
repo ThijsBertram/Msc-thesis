@@ -2,7 +2,7 @@ This README contains instructions on how to replicate the experiments conducted 
 
 
 1. Download and extract Rijksmuseum.zip
-2. Run 'create partition & labes.py'. Compress the resulting data directory into 'data.zip'
+2. Run 'partition_labels.py'. Compress the resulting data directory into 'data.zip'
 3. Train and save models (and model predictions) running 'train.ipynb' on the Google Colab platform. Note: upload 'data.zip' , 'partition' and 'labels' to Google Colaboratory
 4. Get results by running 'results.py'
 
